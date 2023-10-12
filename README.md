@@ -15,7 +15,7 @@ There are currently 2 versions:
 
 
 Deployed at:
-https://pose-detection-git-master-subhrajyotighosh972-gmailcom.vercel.app/
+https://pose-detection.vercel.app/
 
 ## Installation
 
